@@ -11,4 +11,12 @@ O objetivo deste projeto é:
 - Implementar as operações matemáticas básicas
 - Separar a **tela (UI)** da **lógica de cálculo**, facilitando manutenção e entendimento do código
 
+🌐 Demonstração Online
+
+O projeto está disponível online e pode ser acessado através do link abaixo:
+
+🔗 https://calculadoraemflutter.vercel.app/
+
+Nessa versão é possível visualizar a interface da calculadora desenvolvida em Flutter Web, com layout responsivo e botões estilizados no padrão de uma calculadora tradicional.
+
 
